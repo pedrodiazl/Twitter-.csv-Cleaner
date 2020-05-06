@@ -7,7 +7,7 @@ Data mined from the Twitter APIs in JSON files contains thousands of columns, mo
 
 Note: This script doesn't convert the API's JSON files to .csv files. Before running this script, the JSON files must be flattened and converted to .csv. For best results, use https://www.convertcsv.com/json-to-csv.htm (with encoding UTF-8).
 
-Once you have your raw .csv files in one directory, edit line 10 of  the R script as follows by substituting the directory with raw .csv files. In Windows, use forward slashes: e.g. "C:/my_csv_files/*."
+Once you have your raw .csv files in one directory, edit line 10 of the R script by substituting the directory with raw .csv files. In Windows, use forward slashes: e.g. "C:/my_csv_files/*."
 
 The output for each processed .csv file is another .csv file with fewer columns and ready to be imported into Google Sheets for further manipulation, i.e. corpus linguistics annotation. See sample files "sample.json", "sample.csv" & "samplecsv-clean.csv". The JSON file was obtained using searchtweets.py Python wrapper for the Twitter API. 
 
