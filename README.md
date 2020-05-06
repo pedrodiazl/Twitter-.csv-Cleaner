@@ -9,7 +9,7 @@ Note: This script doesn't convert the API's JSON files to .csv files. Before run
 
 Once you have your raw .csv files in one directory, edit line 10 of  the R script as follows by substituting the directory with raw .csv files. In Windows, use forward slashes: e.g. "C:/my_csv_files/*."
 
-The output for each processed .csv file is another .csv file with fewer columns and ready to be imported into Google Sheets for further manipulation, i.e. corpus linguistics annotation. See sample files "sample.json", "sample.csv" & "samplecsv-clean.csv". The JSON file was obtained using search_tweets.py Python wrapper for the Twitter API. 
+The output for each processed .csv file is another .csv file with fewer columns and ready to be imported into Google Sheets for further manipulation, i.e. corpus linguistics annotation. See sample files "sample.json", "sample.csv" & "samplecsv-clean.csv". The JSON file was obtained using searchtweets.py Python wrapper for the Twitter API. 
 
 Importing to Google Sheets:
 Create a blank sheet.
