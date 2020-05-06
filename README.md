@@ -1,5 +1,5 @@
-# Twitter .csv Data Cleaner for Linguistics
-An R Script that cleans Twitter API output data for easier manipulation and linguistic annotation. Output .csv files can readily be imported to Google Sheets or similar spreadsheet programs. 
+# Twitter .csv cleaner for linguistics
+An R Script that cleans Twitter API output data for easier manipulation and annotation, originally created for linguistic annotation. Output .csv files can readily be imported to Google Sheets or similar spreadsheet programs. 
 
 Instructions
 
