@@ -14,6 +14,7 @@ The output for each processed .csv file is another .csv file with fewer columns 
 Importing to Google Sheets:
 Create a blank sheet.
 Go to File > Import > Upload > Select file
-Then select the desired Import location; under Separator type select Custom: and type in ";" (no quotes); and select "No" for Convert text to numbers, dates, and formulas.
+Then select the desired Import location; under Separator type select Custom: and type in ";" (no quotes); and select "No" for Convert text to numbers, dates, and formulas. For "samplecsv-clean.csv": https://docs.google.com/spreadsheets/d/1MZNPQLC61FdNwLTEZQ-ekiZ71m5ilQGt0n5O0-fM_Gw/edit?usp=sharing
+
 
 Please address comments and questions to pedro.diazlammertyn@kuleuven.be.
