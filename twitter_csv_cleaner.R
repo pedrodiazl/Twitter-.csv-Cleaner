@@ -1,3 +1,4 @@
+#by Pedro Díaz Lammertyn pedro.diazlammertyn@kuleuven.be
 library(sqldf)
 library(bit64)
 library(data.table)
